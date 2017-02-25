@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d030f0e5-bc2c-4171-b824-123e6e0639da" name="Default" comment="Added CSS architecture file structure">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/typography.css" />
+    <list default="true" id="d030f0e5-bc2c-4171-b824-123e6e0639da" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -233,7 +232,7 @@
       <option name="presentableId" value="Default" />
       <updated>1487749629596</updated>
       <workItem from="1487749630817" duration="255000" />
-      <workItem from="1488052558116" duration="892000" />
+      <workItem from="1488052558116" duration="902000" />
     </task>
     <task id="LOCAL-00001" summary="Added dummy content.">
       <created>1488053093148</created>
@@ -263,11 +262,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488053358783</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added CSS architecture file structure">
+      <created>1488053460145</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1488053460145</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3004000" />
+    <option name="totallyTimeSpent" value="3014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="181" y="42" width="1550" height="927" extended-state="0" />
