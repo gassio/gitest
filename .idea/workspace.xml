@@ -232,7 +232,7 @@
       <option name="presentableId" value="Default" />
       <updated>1487749629596</updated>
       <workItem from="1487749630817" duration="255000" />
-      <workItem from="1488052558116" duration="902000" />
+      <workItem from="1488052558116" duration="928000" />
     </task>
     <task id="LOCAL-00001" summary="Added dummy content.">
       <created>1488053093148</created>
@@ -269,11 +269,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488053460145</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added CSS architecture file structure">
+      <created>1488053472243</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1488053472243</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3014000" />
+    <option name="totallyTimeSpent" value="3040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="181" y="42" width="1550" height="927" extended-state="0" />
@@ -357,6 +364,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
