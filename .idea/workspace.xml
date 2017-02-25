@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d030f0e5-bc2c-4171-b824-123e6e0639da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -191,12 +189,20 @@
       <option name="presentableId" value="Default" />
       <updated>1487749629596</updated>
       <workItem from="1487749630817" duration="255000" />
-      <workItem from="1488052558116" duration="482000" />
+      <workItem from="1488052558116" duration="534000" />
     </task>
+    <task id="LOCAL-00001" summary="Added dummy content.">
+      <created>1488053093148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488053093148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2594000" />
+    <option name="totallyTimeSpent" value="2646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="163" y="43" width="1495" height="889" extended-state="0" />
@@ -225,6 +231,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added dummy content." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added dummy content." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
