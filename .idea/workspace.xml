@@ -248,7 +248,7 @@
       <updated>1487749629596</updated>
       <workItem from="1487749630817" duration="255000" />
       <workItem from="1488052558116" duration="1036000" />
-      <workItem from="1488114067990" duration="648000" />
+      <workItem from="1488114067990" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="Added dummy content.">
       <created>1488053093148</created>
@@ -320,11 +320,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488118540964</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added modules and trumps directories.">
+      <created>1488118571788</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1488118571788</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3796000" />
+    <option name="totallyTimeSpent" value="3821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="181" y="42" width="1550" height="927" extended-state="0" />
@@ -357,7 +364,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added dummy content." />
     <MESSAGE value="Added CSS architecture file structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added CSS architecture file structure" />
+    <MESSAGE value="Added modules and trumps directories." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added modules and trumps directories." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
